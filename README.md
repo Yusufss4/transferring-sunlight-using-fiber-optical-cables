@@ -46,25 +46,25 @@ Later when we gathered the sun to transfer the sun, we can use fiber optic cable
 
 ### Concept of Operation
 <p align="center">
- <img src="diagrams/concept-of-operation.png" alt="Concept of Operation Diagram" width="400">
+ <img src="diagrams/concept-of-operation.png" alt="Concept of Operation Diagram" width="700">
  </p>
 
 ### Subsystems
 <p align="center">
- <img src="diagrams/subsystems-diagram.png" alt="Subsystems Diagram" width="400">
+ <img src="diagrams/subsystems-diagram.png" alt="Subsystems Diagram" width="700">
  </p>
  
 ## Mechanical Subsystem
 ### 3D Printed
 <p align="center">
- <img src="images/son-foto-alt.png" alt="Design" width="400">
- </p>
+ <img src="images/son-foto-alt.jpg" alt="Design" width="700">
+</p>
  <p align="center">
- <img src="images/son-foto-ust.png" alt="Design" width="400">
- </p>
-  <p align="center">
- <img src="images/workshop-foto.png" alt="Design" width="400">
- </p>
+ <img src="images/son-foto-ust.jpg" alt="Design" width="700">
+</p>
+<p align="center">
+ <img src="images/workshop-foto.jpg" alt="Design" width="700">
+</p>
 
 ### Render
 <p align="center">
@@ -79,7 +79,7 @@ Later when we gathered the sun to transfer the sun, we can use fiber optic cable
 ## Embedded Software
 ### Software State Diagram
 <p align="center">
- <img src="diagrams/software-state-diagram.png" alt="Software State Diagram" width="400">
+ <img src="diagrams/software-state-diagram.png" alt="Software State Diagram" width="700">
   </p>
 
 ### Sun Tracking Algorithm Diagram
@@ -105,18 +105,17 @@ Later when we gathered the sun to transfer the sun, we can use fiber optic cable
 
 ### Connections
 <p align="center">
- <img src="diagrams/electrical-systems.png" alt="Connections" width="400">
+ <img src="diagrams/electrical-systems.png" alt="Connections" width="700">
  </p>
 
 ### Schematic
 <p align="center">
- <img src="diagrams/electrical-shematic.png" alt="Schematic" width="400">
+ <img src="diagrams/electrical-shematic.png" alt="Schematic" width="700">
  </p>
  
 # Documents - Reports
 ## Thesis
-<a href="https://github.com/Yusufss4/transferring-sunlight-using-fiber-optical-cables/issues">Link</a>
-<a href="https://github.com/Yusufss4/transferring-sunlight-using-fiber-optical-cables/issues">ResearchGate</a>
+<a href="https://github.com/Yusufss4/transferring-sunlight-using-fiber-optical-cables/issues">Link</a> · <a href="https://github.com/Yusufss4/transferring-sunlight-using-fiber-optical-cables/issues">ResearchGate</a>
 
 ## Presentation
 <a href="https://github.com/Yusufss4/transferring-sunlight-using-fiber-optical-cables/issues">Link</a>
