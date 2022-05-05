@@ -4,7 +4,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/Yusufss4/transferring-sunlight-using-fiber-optical-cables">
-    <img src="images/logo.png" alt="Logo" width="140" height="140">
+    <img src="images/logo.png" alt="Logo" height="140">
   </a>
   <h1 align="center">Transferring the Sunlight Using Fiber Optical Cables</h1>
   <p align="center">
@@ -46,87 +46,92 @@ Later when we gathered the sun to transfer the sun, we can use fiber optic cable
 
 ### Concept of Operation
 <p align="center">
- <img src="DiagramFiles/ESP32-Scanner_bb.png" alt="Connection Diagram" width="400">
+ <img src="diagrams/concept-of-operation.png" alt="Concept of Operation Diagram" width="400">
  </p>
 
 ### Subsystems
 <p align="center">
- <img src="DiagramFiles/ESP32-Scanner_bb.png" alt="Connection Diagram" width="400">
+ <img src="diagrams/subsystems-diagram.png" alt="Subsystems Diagram" width="400">
  </p>
  
 ## Mechanical Subsystem
 ### 3D Printed
 <p align="center">
- <img src="DiagramFiles/ESP8266-NoLvlNoDHT_bb.png" alt="ESP8266 Door Lighting Controller Connection Diagram" width="400">
+ <img src="images/son-foto-alt.png" alt="Design" width="400">
+ </p>
+ <p align="center">
+ <img src="images/son-foto-ust.png" alt="Design" width="400">
+ </p>
+  <p align="center">
+ <img src="images/workshop-foto.png" alt="Design" width="400">
  </p>
 
 ### Render
 <p align="center">
-<img src="BoxDesigns/Images/Door.png" alt="ESP8266 Door Lighting Controller Box Design" width="700"> 
+<img src="images/render.png" alt="Render" width="700"> 
 </p>
 
 ### Pan-Tilt Mechanism
 <p align="center">
-<img src="Demo-Files/Assets/DoorLightControl.png" alt="Product" width="700">
+<img src="images/tilt-pan-mechanism.png" alt="Product" width="700">
 </p>
 
 ## Embedded Software
 ### Software State Diagram
 <p align="center">
- <img src="DiagramFiles/ESP32-ShelfLabelController_bb.png" alt="Connection Diagram" width="400">
+ <img src="diagrams/software-state-diagram.png" alt="Software State Diagram" width="400">
   </p>
 
 ### Sun Tracking Algorithm Diagram
 <p align="center">
-<img src="BoxDesigns/Images/E-paper-controller.png" alt="Box Design" width="700">
+<img src="diagrams/sun-tracking-algorithm.png" alt="Sun Tracking Algorithm Diagram" width="700">
  </p>
 
 ## High-Level Software
 ### Server-Side Diagram
 <p align="center">
- <img src="images/logo.png" alt="E-Paper Connection Diagram" width="700">
+ <img src="diagrams/server-side-diagram.png" alt="Server-Side Diagram" width="700">
  </p>
 
-### Connection Diagram
-<p align="center">
- <img src="images/logo.png" alt="E-Paper Connection Diagram" width="700">
- </p>
 
 ### Interface
 <p align="center">
-<img src="BoxDesigns/Images/ShelfLabel_1.png" alt="E-Paper Box Design" width="700">
+<img src="images/interface.jpg" alt="Website" width="700">
 </p>
 
 ## Electrical Subsystem
 
 ### Electrical System
 
+### Connections
+<p align="center">
+ <img src="diagrams/electrical-systems.png" alt="Connections" width="400">
+ </p>
 
 ### Schematic
 <p align="center">
- <img src="images/logo.png" alt="E-Paper Connection Diagram" width="400">
+ <img src="diagrams/electrical-shematic.png" alt="Schematic" width="400">
  </p>
  
 # Documents - Reports
 ## Thesis
-<a href="https://github.com/Yusufss4/Academy2021/issues">Link</a>
-<a href="https://github.com/Yusufss4/Academy2021/issues">ResearchGate</a>
+<a href="https://github.com/Yusufss4/transferring-sunlight-using-fiber-optical-cables/issues">Link</a>
+<a href="https://github.com/Yusufss4/transferring-sunlight-using-fiber-optical-cables/issues">ResearchGate</a>
 
 ## Presentation
-<a href="https://github.com/Yusufss4/Academy2021/issues">Link</a>
+<a href="https://github.com/Yusufss4/transferring-sunlight-using-fiber-optical-cables/issues">Link</a>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/Yusufss4/Academy2021.svg?style=for-the-badge
-[contributors-url]: https://github.com/Yusufss4/Academy2021/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/Yusufss4/Academy2021.svg?style=for-the-badge
-[forks-url]: https://github.com/Yusufss4/Academy2021/network/members
-[stars-shield]: https://img.shields.io/github/stars/Yusufss4/Academy2021.svg?style=for-the-badge
-[stars-url]: https://github.com/Yusufss4/Academy2021/stargazers
-[issues-shield]: https://img.shields.io/github/issues/Yusufss4/Academy2021.svg?style=for-the-badge
-[issues-url]: https://github.com/Yusufss4/Academy2021/issues
-[license-shield]: https://img.shields.io/github/license/Yusufss4/Academy2021.svg?style=for-the-badge
-[license-url]: https://github.com/Yusufss4/Academy2021/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/Yusufss4/transferring-sunlight-using-fiber-optical-cables.svg?style=for-the-badge
+[contributors-url]: https://github.com/Yusufss4/transferring-sunlight-using-fiber-optical-cables/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/Yusufss4/transferring-sunlight-using-fiber-optical-cables.svg?style=for-the-badge
+[forks-url]: https://github.com/Yusufss4/transferring-sunlight-using-fiber-optical-cables/network/members
+[stars-shield]: https://img.shields.io/github/stars/Yusufss4/transferring-sunlight-using-fiber-optical-cables.svg?style=for-the-badge
+[stars-url]: https://github.com/Yusufss4/transferring-sunlight-using-fiber-optical-cables/stargazers
+[issues-shield]: https://img.shields.io/github/issues/Yusufss4/transferring-sunlight-using-fiber-optical-cables.svg?style=for-the-badge
+[issues-url]: https://github.com/Yusufss4/transferring-sunlight-using-fiber-optical-cables/issues
+[license-shield]: https://img.shields.io/github/license/Yusufss4/transferring-sunlight-using-fiber-optical-cables.svg?style=for-the-badge
+[license-url]: https://github.com/Yusufss4/transferring-sunlight-using-fiber-optical-cables/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://linkedin.com/in/yusufss
-[product-screenshot]: images/screenshot.png
