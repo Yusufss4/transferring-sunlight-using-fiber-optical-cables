@@ -3,8 +3,8 @@
 <!-- PROJECT LOGO -->
 <br/>
 <p align="center">
-  <a href="https://github.com/Yusufss4/Academy2021">
-    <img src="Demo-Files/Assets/HardwareLogo.png" alt="Logo" width="140" height="140">
+  <a href="https://github.com/Yusufss4/transferring-sunlight-using-fiber-optical-cables">
+    <img src="diagrams/logo.png" alt="Logo" width="140" height="140">
   </a>
   <h1 align="center">Transferring the Sunlight Using Fiber Optical Cables</h1>
   <p align="center">
@@ -14,7 +14,7 @@
     ·
     <a href="https://youtu.be/4VCTo--MlWs">Watch Non-Comment Video</a>
     ·
-    <a href="https://github.com/Yusufss4/Academy2021/issues">Request Feature</a>
+    <a href="https://github.com/Yusufss4/transferring-sunlight-using-fiber-optical-cables/issues">Request Feature</a>
   </p>
    <p align="center">
     Index
