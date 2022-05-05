@@ -1,0 +1,91 @@
+﻿@page
+
+
+@{
+    ViewData["Title"] = "Real Time Statistics";
+}
+
+<!DOCTYPE html>
+<meta name="viewport" content="width=device-width" />
+<title>Index</title>
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.6/css/bootstrap.min.css">
+<script type="text/javascript" src="https://canvasjs.com/assets/script/jquery-1.11.1.min.js"></script>
+<script type="text/javascript" src="https://canvasjs.com/assets/script/canvasjs.min.js"></script>
+
+
+<div class="container">
+    <div class="panel-group">
+        <div class="panel panel-default">
+            <div class="panel-heading">LDR</div>
+            <div class="panel-body">
+                <div id="LDRChartContainer" style="height: 300px; width: 100%;"></div>
+            </div>
+        </div>
+
+        <div class="panel panel-default">
+            <div class="panel-heading">Temperature</div>
+            <div class="panel-body">
+                <div id="TempChartContainer" style="height: 300px; width: 100%;"></div>
+            </div>
+        </div>
+
+        <div class="panel panel-default">
+            <div class="panel-heading">Lux</div>
+            <div class="panel-body">
+                <div id="LuxChartContainer" style="height: 300px; width: 100%;"></div>
+            </div>
+        </div>
+
+        <div class="panel panel-default">
+            <div class="panel-heading">Heat Index</div>
+            <div class="panel-body">
+                <div id="HeatIndexChartContainer" style="height: 300px; width: 100%;"></div>
+            </div>
+        </div>
+
+        <div class="panel panel-default">
+            <div class="panel-heading">Data Table</div>
+            <div class="panel-body">
+                <div>
+                    <table id="tab"></table>
+                </div>
+                <div class="row">
+                    <div class="col-md-12">
+                        <div>
+                            <table class="table table-striped">
+                                <thead>
+                                    <tr>
+                                        <th>Id</th>
+                                        <th>Create Date</th>
+                                        <th>Create Time</th>
+                                        <th>Avarage Light %</th>
+                                        <th>Humidity</th>
+                                        <th>Heat Index</th>
+                                        <th>Air Pressure</th>
+                                        <th>Altitude</th>
+                                        <th>Lux</th>
+                                        <th>Temperature</th>
+                                    </tr>
+                                </thead>
+                                <tbody id="messagesTable"></tbody>
+                            </table>
+                        </div>
+                    </div>
+                </div>
+                <!--  <div class="row">
+            <div class="col-6">
+                <input type="button" id="sendButton" value="Send Message" />
+            </div>
+        </div> -->
+            </div>
+            </div>
+        </div>
+    </div>
+
+<div class="container"> </div>
+
+    <script src="~/js/signalr/dist/browser/signalr.js"></script>
+    <script src="~/js/Table.js"></script>
+    <script src="~/js/Chart.js"></script>
+    <script src="~/js/Main.js"></script>
+
