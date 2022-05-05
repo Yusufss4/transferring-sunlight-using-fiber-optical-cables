@@ -4,7 +4,7 @@
 <br/>
 <p align="center">
   <a href="https://github.com/Yusufss4/transferring-sunlight-using-fiber-optical-cables">
-    <img src="diagrams/logo.png" alt="Logo" width="140" height="140">
+    <img src="images/logo.png" alt="Logo" width="140" height="140">
   </a>
   <h1 align="center">Transferring the Sunlight Using Fiber Optical Cables</h1>
   <p align="center">
