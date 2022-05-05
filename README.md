@@ -90,7 +90,7 @@ Later when we gathered the sun to transfer the sun, we can use fiber optic cable
 ## High-Level Software
 ### Server-Side Diagram
 <p align="center">
- <img src="diagrams/server-side-diagram.png" alt="Server-Side Diagram" width="700">
+ <img src="diagrams/serverside-diagram.png" alt="Server-Side Diagram" width="700">
  </p>
 
 
