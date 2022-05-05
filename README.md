@@ -115,10 +115,10 @@ Later when we gathered the sun to transfer the sun, we can use fiber optic cable
  
 # Documents - Reports
 ## Thesis
-<a href="https://github.com/Yusufss4/transferring-sunlight-using-fiber-optical-cables/issues">Link</a> · <a href="https://github.com/Yusufss4/transferring-sunlight-using-fiber-optical-cables/issues">ResearchGate</a>
+<a href="https://github.com/Yusufss4/transferring-sunlight-using-fiber-optical-cables/blob/main/reports/thesis.pdf">Link</a> · <a href="https://github.com/Yusufss4/transferring-sunlight-using-fiber-optical-cables/issues">ResearchGate</a>
 
 ## Presentation
-<a href="https://github.com/Yusufss4/transferring-sunlight-using-fiber-optical-cables/issues">Link</a>
+<a href="https://github.com/Yusufss4/transferring-sunlight-using-fiber-optical-cables/blob/main/reports/presentation.pdf">Link</a>
 
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
